@@ -1,0 +1,21 @@
+# Fichiers de données
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.xlsx
+
+# Fichiers temporaires
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# Environnement
+venv/
+env/
+.venv/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
