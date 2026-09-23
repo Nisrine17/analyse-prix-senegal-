@@ -35,7 +35,7 @@ Ce projet analyse les fluctuations des prix alimentaires sur une période de **2
 
 ### 📈 Page 1 : Vue d'ensemble
 
-![Vue d'ensemble du dashboard](images/tableau_de_bord1.jpeg)
+![Vue d'ensemble du dashboard](images/dashboard_page1.jpeg)
 
 *Indicateurs clés, évolution des prix, carte des disparités régionales et top 5 des produits.*
 
@@ -43,7 +43,7 @@ Ce projet analyse les fluctuations des prix alimentaires sur une période de **2
 
 ### 🔬 Page 2 : Diagnostic
 
-![Diagnostic des prix](images/tableau_de_bord2.jpeg)
+![Diagnostic des prix](images/dashboard_page2.jpeg)
 
 *Comparaison Local vs Importé, répartition par catégorie, volatilité et tableau détaillé.*
 
